@@ -25,7 +25,10 @@ public class test1 {
 	public void m3(){
 		System.out.println("after method");
 	}
-	
+	public void m4(){
+		System.out.println("after  m4 method");
+
+	}
 	}
 
 
